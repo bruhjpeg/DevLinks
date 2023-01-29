@@ -1,3 +1,7 @@
+*{
+  font-family: 'Inter', sans-serif;
+}
+
 body {
   background-color: #fc94af;
 }
@@ -12,4 +16,13 @@ body {
   width: 112px;
   display: block;
   margin: auto;
+}
+
+#profile p {
+  font-weight:500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: white;
+
 }
