@@ -67,3 +67,9 @@ ul li a:hover {
   background:rgba(36, 36, 36, 0.521);
   border: 1.5px solid #ff6f98;
 }
+
+
+.link {
+display: flex;
+margin-right: 10px;
+}
