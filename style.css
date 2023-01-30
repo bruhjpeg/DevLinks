@@ -18,7 +18,7 @@
 
 .light {
   --text-color: #000000;
-  --bg-color: #ffeff3;
+  --bg-color: #fdcedb;
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(255, 255, 255, 0.226);
   --surface-color-hover: #fc799c;
@@ -81,8 +81,7 @@ body {
 
 .light #switch button {
   animation: slide-in 0.3s forwards;
-  border: 1px solid;
-  background-color: #ff6f98;
+  background-color: #ffffff;
 }
 
 #switch button:hover {
