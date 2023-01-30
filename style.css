@@ -76,11 +76,11 @@ body {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
-  animation: slide-back .3s;
+  animation: slide-back 0.3s;
 }
 
 .light #switch button {
- animation: slide-in .3s forwards;
+  animation: slide-in 0.3s forwards;
 }
 
 #switch button:hover {
@@ -144,7 +144,7 @@ footer {
   margin-top: 50px;
 }
 
-/* animation */ 
+/* animation */
 @keyframes slide-in {
   from {
     left: 0;
